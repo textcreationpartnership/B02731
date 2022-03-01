@@ -1,0 +1,508 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Old Mr. Dods sayings</title>
+            <author>Dod, John, 1549?-1645.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02731</idno>
+            <idno type="STC">Wing D1785A</idno>
+            <idno type="STC">ESTC R174684</idno>
+            <idno type="EEBO-CITATION">52211811</idno>
+            <idno type="OCLC">ocm 52211811</idno>
+            <idno type="VID">175660</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02731)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175660)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2745:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Old Mr. Dods sayings</title>
+                  <author>Dod, John, 1549?-1645.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Maxwell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year, Anno Dom. 1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A guide to Christian living.</note>
+                  <note>Text in black letter.</note>
+                  <note>Imperfect: tightly bound, print show-through with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Quotations, maxims, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175660:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 24 -->
+            <p>OLD Mr. DODS SAYINGS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. Maxwell,</hi> in the Year, Anno Dom. 1680</p>
+         </div>
+      </front>
+      <body>
+         <div type="sayings">
+            <pb facs="tcp:175660:2"/>
+            <!-- PDF PAGE 25 -->
+            <pb facs="tcp:175660:2"/>
+            <!-- PDF PAGE 25 -->
+            <head>OLD Mr. DODS <hi>SAYINGS.</hi>
+            </head>
+            <p n="1">1. NOthing can hurt us but Sin, and that ſhall not hurt us, if we can re<g ref="char:EOLhyphen"/>pent of it. And nothing can do us good but the Love and Favour of God in Chriſt, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat we ſhall have, if we ſeek it.</p>
+            <p n="2">2. No man is in a ſad condition, but he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat hath a hard heart, and cannot pray.</p>
+            <p n="3">3. So much Sin, ſo much Sorrow; ſo much Holineſs, ſo much Happineſs.</p>
+            <p n="4">4. Make thy Sin thy greateſt Sorrow; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſhall thy Sorrow never hurt thee. Make Ieſus Chriſt thy greateſt Ioy, ſo ſhalt thou <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever want Ioy.</p>
+            <p n="5">5. A man that hath the ſpirit of prayer, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath more then if he had all the world.</p>
+            <p n="6">6. Two things to be commended to a Married Couple, Cares and ſtrifes. For the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rſt, Let your Cares be, which ſhall pleaſe God moſt; for your ſtrifes, let them be, which ſhall love one another beſt: So will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our Cares and Strifes be to purpoſe; ſo will all needleſs Cares and ſtrifes vaniſh</p>
+            <p n="7">7. If you be in a married eſtate, know <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd believe it, Though you might have had a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etter, or richer Wife or Husband, yet ſure <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nough you could never have had a fitter, be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auſe it was ſo appointed by God in Heaven,
+<pb n="4" facs="tcp:175660:3"/>
+               <!-- PDF PAGE 26 -->
+before it could be accompliſhed here o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Earth; and therefore, though mutual love <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not performed to thee, yet do thou thy part <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> obedience to God, and thou ſhalt be ſure <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have comfort in the end, though God exerci<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thee with chaſtiſements for a time.</p>
+            <p n="8">8. There can no afflictions or miſeries b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fall us, but by Gods appointment, and cann<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hurt us, but muſt needs do us good, if we <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Gods Children. But firſt, Be ſure you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not ſin with them, for that only makes the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bitter. <hi>Secondly,</hi> Look not at the rod, but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him that ſmiteth; for that cauſeth fretti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and fainting both.</p>
+            <p n="9">9. If thou deſireſt to be aſſured thy ſins <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> forgiven thee, labour to forgive injuries a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> offences done unto thee, according to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in. Mat. 6.14, 15. Four things conſider this end: 1. Chriſts example, who forga<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and prayed for his enemies. 2. Chriſts co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mand, <hi>When ye pray, forgive, if ye have ought agai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> any man.</hi> 3. Chriſts promiſe, If <hi>ye forgi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ye ſhall be forgiven.</hi> 4. Chriſts threatning, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>ye forgive not, ye ſhall not be forgiven.</hi>
+            </p>
+            <p n="10">10. In all miſeries and diſtreſſes, it is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wiſdom to go to that friend that is moſt ne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moſt willing, and moſt able to help; ſuch friend is God.</p>
+            <p n="11">11. He would often ſay, He had no reaſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to complain of his croſſes, being they w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> but the bitter fruit of his ſins.</p>
+            <p n="12">12. Where ſin lyes heavy, croſſes lye lig<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="5" facs="tcp:175660:3"/>
+               <!-- PDF PAGE 26 -->
+and contrary, where croſſes lye heavy ſins lye light.</p>
+            <p n="13">13. Either prayer will make a man give over ſinning, or ſin will make a man give over praying.</p>
+            <p n="14">14. Four things we may learn from Chil<g ref="char:EOLhyphen"/>dren: 1. They take no unneceſſary care: 2. They ſleep without malice: 3. They are content with their condition. 4. They are humble; the child of a King will play with the child of a begger.</p>
+            <p n="15">15. There is no affliction ſo ſmall, but we ſhould ſink under it, if God upheld not; and there is no ſin ſo great but we commit it, if God reſtrain not.</p>
+            <p n="16">16. If we be raiſed on, or reviled, or injuri<g ref="char:EOLhyphen"/>ouſly dealt withall by friend or foe, we ſhould be more troubled for the ſin againſt God, then for the offence done to our ſelves.</p>
+            <p n="17">17. A godly man is like a ſheep every place is the better for him where he comes: A wic<g ref="char:EOLhyphen"/>ked man is like a goat, every place is the worſe for him; he leaves a ſtinking favour be<g ref="char:EOLhyphen"/>hind him.</p>
+            <p n="18">18. Sanctified afflictions are ſpiritual pro<g ref="char:EOLhyphen"/>motions, and are far better for a Chriſtian, then all the ſilver and gold in the world, being that the <hi>trial of our Faith is much more precious then of gold that periſheth,</hi> 1 Pet. 1.6.</p>
+            <p n="19">19. Directions for the Lord day, Make the Sabbath the Market<g ref="char:punc">▪</g> day for thy ſoul: Loſe not one hour, but be either praying,
+<pb n="6" facs="tcp:175660:4"/>
+               <!-- PDF PAGE 27 -->
+conferring, or meditating; think not t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> own thoughts; let every day have its dutie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> turn the Sermon heard, into matter of pra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>er: Inſtruction into petition, reproof in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> confeſtion, conſolation into thanksgiving Think much of the Sermon heard, and make ſomething of it all the week long.</p>
+            <p n="20">20. Directions for every day: Firſt, Fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> morning. Every morning preſuppoſe, 1. I muſt die: 2. I may die or night: 3. whithe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will my ſoul go, to heaven or to hell? Second<g ref="char:EOLunhyphen"/>ly, For night. Every night ask at thy ſoul theſe Queſtions: 1. Have I twice this day humbled my ſelf before God in private? 2 How did I pray? In faith and love: 3 what have my thoughts been this day? 4. what have I been in my place and calling? 5. what have I been in company? Did I ſpeak of good things? or did I hear, and with Mary, lay up? 6. If God, with the morni<g ref="char:EOLhyphen"/>ng, renewed mercies, was I thankfull? 7. If the day afforded me matter of ſorrow, did I fret? or did I lye in the duſt before God? 8. when you have thus done, where have you been failing, confeſſe it with ſorrow; the leſſe-work you will have to do when death comes. Thus every night reckon right with thy God. This hath been my daily courſe, and ſhall be my practice till I die.</p>
+            <p n="21">21. What we win by prayer, we ſhall wear with comfort.</p>
+            <p n="22">22. There is a twofold aſſurance: 1. A
+<pb n="7" facs="tcp:175660:4"/>
+               <!-- PDF PAGE 27 -->
+A Sun. ſhine: 2. A Moon ſhine aſſurance. The firſt is that full aſſurance, in Heb. 10.22. The Moon. ſhine is that of the Word, To the <hi>which we do well that we take heab, I Theſ.</hi> 1.5. 2 <hi>Pet.</hi> 1, 18. The firſt is given but to few, and that but ſeldom; and that either upon ſome great duty to be performed, or ſome new condition of life to be entred in to, or upon ſome great ſuffering to be undergone, of which one ſaith, <hi>The hours it comes, is but ſel<g ref="char:EOLhyphen"/>dom, and the ſtay of it ſhort.</hi> The ſecond is that we muſt truſt to, A relying upon the ſure Word of God, by the faith of adherence, when we want the other, the ſpirit of full aſſurance.</p>
+            <p n="23">23. For the comfort of Gods people, he obſerved out of the 129. <hi>Pſal.</hi> that though the wicked were the plowers of the righteous, and would plow deep, make long furrows, and even plow their hearts out, if they could, yet the righteous Lord that ſits in heaven laughs at them, and cuts their Cords, and then they can plow no more.</p>
+            <p n="24">24. In caſe of perſecutions and other ſuffer<g ref="char:EOLhyphen"/>ings, Gods people ſhould ſeriouſly conſider theſe four things: 1. God wills them, and ſends them: Now Gods will is a perfect <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ule of righteouſneſſe; and what God doth, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſo well done, that it could not be better <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one: 2. There is need of them, or elſe we <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hould not have them. 3. Their number, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſure and continuance is determined by
+<pb n="8" facs="tcp:175660:5"/>
+               <!-- PDF PAGE 28 -->
+God; they are but for a moment, and, laſt for few dayes, Rev. 2.10. not too heavy, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> many, or too long, as the devil would h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them; not too few too ſhort, or too light, our corrupt natures would have them <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Their end <hi>is a weight of glory,</hi> and the Cr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> that attends them, everlaſting, 2 Cor. 4.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p n="25">25. Three things make a man count h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſelf happy here below: 1. To have a g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>enate: 2. To have it in a good place: 3. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> good neighbours. Now theſe three, they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> die in the Lord eminently enjoy. 1. T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heavenly inheritance great; <hi>Eye hath not I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nor ear heard the like,</hi> 1 <hi>Cor.</hi> 2.9. 2. It is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> good place, 2 <hi>Cor.</hi> Heaven, which is a h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made for them, and made by God. and the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fore muſt needs be good: 3. By good nei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>bours, God, Chriſt, the Spirt, Angels <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Saints. Adam had a good inheritance, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a good place, but he had an evil nighbou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the devil that troubled him, and marred <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but there is no evil neighbours in heaven.</p>
+            <p n="26">26. The paſſions of Gods people do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hinder the ſucceſs of their prayers. <hi>Elias</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a man ſubject to like paſſions as we are, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he prayed, and was heard, Iames 5.17.</p>
+            <p n="27">27. Three things concur to the making of the ſin againſt the holy Ghoſt: 1. Light in the mind: 2. Malice in the heart: 3. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> inſenſibleneſs of the ſin. He that fears he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> committed it, hath not committed it.</p>
+            <p n="28">28. The reaſon why many are not wron<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="9" facs="tcp:175660:5"/>
+               <!-- PDF PAGE 28 -->
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon, that live under powerful means of grace, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen many that live at a great diſtance, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome ſeldom under a powerful Preacher, are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rought upon by it; he uſed to give by this <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>militude: As in a Market Town the Towns <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eople matter not ſo much for Market <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ares, as they that live in the Countreys <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey come to buy, and muſt, and will have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat they want, what ever they pay for it; whereas they that live in the Town, think <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey may buy at any time, and ſo neglect buy<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng at preſent; and at laſt, oftentimes they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re diſappointed.</p>
+            <p n="29">29. To perſwade us not to return railing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or railing, he would ſay, That if a dog bark<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d at a ſheep, a ſheep will not bark at a dog.</p>
+            <p n="30">30. Four arguments againſt immoderate <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ares for earthly things, that we might not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſhonour or deny God, he obſerved out of Mat. 6.1. It is needleſſe: 2. It is bruitiſh: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. It is bootleſſe: 4. It is heatheniſh. 1 Need <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leſſe. What need we care, and God too? <hi>verſ.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0.31.32. <hi>Our heavenly Father knows we have need <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f theſe things,</hi> and he bids us be careful for nothing, but <hi>caſt our cares on him who careth for</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>5. 2. It is brutiſh, nay more then brutiſh; <hi>v.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0. <hi>Conſider the Fowls of the air, and ravens that he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeds, they toyl not.</hi> 3. It is bootleſſe, and to no purpoſe, <hi>v.</hi> 27. <hi>Which of you by taking though can <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad one cubit unto his ſtature, or pennie to his eſtate.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. It is heatheniſh: <hi>After all theſe things, the Gen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iles ſeek, v.</hi> 32</p>
+            <p n="31">
+               <pb n="10" facs="tcp:175660:6"/>
+               <!-- PDF PAGE 29 -->31. Many in the world take their Sa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſhip upon truſt, and trade in the duties of Reli<g ref="char:EOLunhyphen"/>gion, with the credit they have gained fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> others opinions; they believe themſelves <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be Chriſtians, becauſe others hope them to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch, and ſo Zealouſly trade in duties that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> outmoſt, to keep up their credit, but no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> look for a ſtock or ſolid grace within; an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this undoes many.</p>
+            <p n="32">32. As we read of <hi>daily bread, ſo of a a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roſs, Luk.</hi> 9.23. which we are bid to take, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to make. We need not make croſſes for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſelves, as we are too prone to do; but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God make them for us: Croſſes being <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in heaven, beſt fit the Sain<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s backs; and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> muſt not lay them down till they and we <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> down together.</p>
+            <p n="33">33. It was a notable ſaying of a hu<g ref="char:EOLunhyphen"/>man; <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hell, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> heaven, yet I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> love and fear my God.</hi>
+            </p>
+            <p n="34">34. It is not crying out upon the devil, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> declaming againſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m prayer or diſcou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> but fighting with the devil, and mortifyi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our luſts, that God chiefly looks upon.</p>
+            <p n="35">35. The <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ty profeſſour diſappoin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce 1. The world, who ſeeing th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſinne but finds none: 2. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſelf wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> think<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to reach heaven, but fa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of it.</p>
+            <p n="36">36. The only way for a diſtreſſed ſoul th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> on former comforts, by reaſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of future backſlidings, and ſo queſtions <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:175660:6"/>
+               <!-- PDF PAGE 29 -->
+this former evidences is To renew his repen<g ref="char:EOLhyphen"/>tance, as if he had never believed,</p>
+            <p n="37">37. Some are apt to think, if they are in ſuch a family, under ſuch a miniſter, out of ſuch temptations, the devil would not meddle with them as he doth: But ſuch ſhould know, that ſo long as his old friend is alive within, he will be knocking at the door without.</p>
+            <p n="38">38. The ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed were ſown ſo deep in the na<g ref="char:EOLhyphen"/>ture of the devil, and the Saint, that they will never be rooted out till the devil ceaſe to be a devil, and ſin to be ſin, and the Saint to be a Saint.</p>
+            <p n="39">39. The ſinner is the devil's Miller, al<g ref="char:EOLhyphen"/>wayes grinding, and the devil is alwayes fill<g ref="char:EOLhyphen"/>ing the Hopper, that the Mill may not ſtand ſtill.</p>
+            <p n="40">40. There be ſome ſins that an ignorant perſon cannot commit; but there are far more that an ignorant perſon cannot but commit.</p>
+            <p n="41">41. There be five <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes by which the God of heaven hath bound himſelf to be the Saints Life guard againſt the powers of darkneſſe: 1. His relation to them as a Father: 2. His love to them, in reſpect as they being the Birth of his everlaſting counſel, are par<g ref="char:EOLhyphen"/>takers of his own Likeneſſe: 3. The price of His Sons Blood, and His Covenant with them: 4. Their dependance upon Him, and expectation from him in all their ſtraits. Now the <hi>expectations of the poor ſhall not periſh, Pſal.</hi> 9.18. 5. Chriſts preſent imployment in
+<pb n="12" facs="tcp:175660:7"/>
+               <!-- PDF PAGE 30 -->
+heaven is to ſee all things carried fairly bet<g ref="char:EOLunhyphen"/>ween God and them.</p>
+            <p n="42">42. Brown bread with the Goſpel, is good fare.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175660:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 30 -->
+         </div>
+      </body>
+   </text>
+</TEI>
